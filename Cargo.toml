@@ -5,7 +5,7 @@ version = "0.1.0"
 edition = "2024"
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/joshka/async-tty"
-docs = "https://docs.rs/async-tty"
+documentation = "https://docs.rs/async-tty"
 
 [dependencies]
 color-eyre = "0.6.3"
