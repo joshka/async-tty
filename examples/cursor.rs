@@ -1,7 +1,8 @@
 use std::time::Duration;
 
 use async_tty::commands::cursor::{CursorDown, CursorPosition, CursorUp};
-use tokio::{io::AsyncWriteExt, time::sleep};
+use tokio::io::AsyncWriteExt;
+use tokio::time::sleep;
 
 #[tokio::main]
 async fn main() -> color_eyre::Result<()> {
