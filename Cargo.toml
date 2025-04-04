@@ -1,0 +1,20 @@
+[package]
+name = "async-tty"
+description = "An asynchronous TTY library for Rust"
+version = "0.1.0"
+edition = "2024"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/joshka/async-tty"
+docs = "https://docs.rs/async-tty"
+
+[dependencies]
+color-eyre = "0.6.3"
+mio = "1.0.3"
+rustix = { version = "1.0.5", features = ["termios"] }
+snafu = "0.8.5"
+tokio = { version = "1.44.1", features = [
+    "io-util",
+    "macros",
+    "rt-multi-thread",
+    "time",
+] }
