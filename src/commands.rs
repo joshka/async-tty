@@ -8,6 +8,8 @@ pub mod erase;
 ///
 /// # Examples
 /// ```
+/// use async_tty::csi;
+///
 /// let count = 1;
 /// let cursor_up = csi!("{count}A");
 /// assert_eq!(cursor_up, "\x1b[1A");
