@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.4](https://github.com/joshka/async-tty/compare/v0.1.3...v0.1.4) - 2026-03-31
+
+### Other
+
+- Broaden dependency requirements ([#24](https://github.com/joshka/async-tty/pull/24))
+- *(deps)* bump bytes from 1.10.1 to 1.11.1 ([#18](https://github.com/joshka/async-tty/pull/18))
+- *(deps)* bump tokio in the rust-dependencies group ([#21](https://github.com/joshka/async-tty/pull/21))
+- *(deps)* bump the rust-dependencies group across 1 directory with 3 updates ([#20](https://github.com/joshka/async-tty/pull/20))
+- *(deps)* bump the rust-dependencies group across 1 directory with 2 updates ([#15](https://github.com/joshka/async-tty/pull/15))
+
 ## [0.1.3](https://github.com/joshka/async-tty/compare/v0.1.2...v0.1.3) - 2025-11-29
 
 ### Other
