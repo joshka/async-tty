@@ -7,6 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.5](https://github.com/joshka/async-tty/compare/v0.1.4...v0.1.5) - 2026-07-25
+
+### Other
+
+- *(deps)* bump tokio from 1.52.3 to 1.53.1 in the rust-dependencies group ([#35](https://github.com/joshka/async-tty/pull/35))
+- *(deps)* bump mio from 1.2.1 to 1.2.2 in the rust-dependencies group ([#34](https://github.com/joshka/async-tty/pull/34))
+- *(deps)* bump actions/checkout from 6 to 7 in the github-actions group ([#33](https://github.com/joshka/async-tty/pull/33))
+- *(deps)* bump the rust-dependencies group with 3 updates ([#32](https://github.com/joshka/async-tty/pull/32))
+- *(deps)* bump codecov/codecov-action from 6 to 7 in the github-actions group ([#30](https://github.com/joshka/async-tty/pull/30))
+- *(deps)* bump actions/checkout from 5 to 6 in the github-actions group across 1 directory ([#26](https://github.com/joshka/async-tty/pull/26))
+
 ## [0.1.4](https://github.com/joshka/async-tty/compare/v0.1.3...v0.1.4) - 2026-03-31
 
 ### Other
