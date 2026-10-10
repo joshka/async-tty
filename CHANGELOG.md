@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.6](https://github.com/joshka/async-tty/compare/v0.1.5...v0.1.6) - 2026-10-10
+
+### Other
+
+- *(deps)* bump rustix from 1.1.4 to 1.1.5 in the rust-dependencies group ([#39](https://github.com/joshka/async-tty/pull/39))
+- *(deps)* bump mio from 1.2.2 to 1.2.3 in the rust-dependencies group ([#37](https://github.com/joshka/async-tty/pull/37))
+- *(deps)* bump snafu from 0.9.1 to 0.9.2 in the rust-dependencies group ([#36](https://github.com/joshka/async-tty/pull/36))
+
 ## [0.1.5](https://github.com/joshka/async-tty/compare/v0.1.4...v0.1.5) - 2026-07-25
 
 ### Other
